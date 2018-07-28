@@ -1,0 +1,12 @@
+
+title: [ITCS208 Object Oriented Programming]
+description: [For ICT Student Mahidol University]
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jemoji
+
+logo: /picture/Frenchbulldogcream.jpg
+show_downloads: false
+google_analytics:
